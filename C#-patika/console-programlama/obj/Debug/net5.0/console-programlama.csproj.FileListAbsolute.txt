@@ -1,0 +1,16 @@
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\bin\Debug\net5.0\console-programlama.exe
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\bin\Debug\net5.0\console-programlama.deps.json
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\bin\Debug\net5.0\console-programlama.runtimeconfig.json
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\bin\Debug\net5.0\console-programlama.runtimeconfig.dev.json
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\bin\Debug\net5.0\console-programlama.dll
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\bin\Debug\net5.0\ref\console-programlama.dll
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\bin\Debug\net5.0\console-programlama.pdb
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\obj\Debug\net5.0\console-programlama.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\obj\Debug\net5.0\console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\obj\Debug\net5.0\console-programlama.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\obj\Debug\net5.0\console-programlama.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\obj\Debug\net5.0\console-programlama.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\obj\Debug\net5.0\console-programlama.dll
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\obj\Debug\net5.0\ref\console-programlama.dll
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\obj\Debug\net5.0\console-programlama.pdb
+C:\Users\Mustafa\Desktop\git-test\patika-dev-ödev\C#-patika\console-programlama\obj\Debug\net5.0\console-programlama.genruntimeconfig.cache
